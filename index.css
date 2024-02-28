@@ -1,0 +1,89 @@
+#title{
+    color: rgb(197, 200, 200); 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background-color: rgb(67, 67, 67);
+}
+#par1{
+    color: rgb(109, 200, 174); 
+    width: 600px;
+    position: relative;
+    margin: auto;
+    font-size: 25px;
+    text-align: center; 
+}
+#par2{
+    color: rgb(109, 200, 174); 
+    text-align: center;
+    font-size: 20px;
+    position: relative;
+    width: 600px;
+    margin: auto;
+}
+#locations{
+    color: rgb(232, 215, 184); 
+    background-color: rgb(141, 104, 12);
+    position:relative; 
+    top: -500px; 
+    right: 262px;
+    height: 50px;
+    width: 100px;
+    border-width: 7px;
+    border-color: rgb(109, 200, 174);
+}
+#resources{
+    color: rgb(232, 215, 184); 
+    background-color: rgb(141, 104, 12);
+    position:relative; 
+    top: -442px; 
+    right: 366px;
+    border-width: 7px;
+    height: 50px;
+    width: 100px;
+    border-color: rgb(109, 200, 174);
+}
+#testimonies{
+    color: rgb(232, 215, 184); 
+    background-color: rgb(141, 104, 12); 
+    height: 50px;
+    width: 100px;
+    border-color: rgb(109, 200, 174);
+    border-width: 7px;
+    position:relative; 
+    top: -400px; 
+    right: 470px;
+}
+#activities{
+    color: rgb(232, 215, 184); 
+    background-color: rgb(141, 104, 12);
+    height: 50px;
+    width: 100px;
+    border-color: rgb(109, 200, 174);
+    border-width: 7px;
+    position: relative;
+    top: -350px;
+    right: 574px;
+}
+#about{
+    color: rgb(232, 215, 184); 
+    background-color: rgb(141, 104, 12);
+    height: 50px;
+    width: 100px;
+    border-color: rgb(109, 200, 174);
+    border-width: 7px;
+    position: relative;
+    top: -300px;
+    right: 678px;
+}
+#img1{
+    width: 250px; 
+    height: 200px;
+    right: -1200px;
+    top: -400px;
+    position: relative;
+}
+
+
